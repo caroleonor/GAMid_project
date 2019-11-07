@@ -48,7 +48,7 @@ app.layout = html.Div(children=[
         ],className='eight columns'),
     ],className='twelve columns'),
     html.Br(),
-    html.A('Code on Github', href='https://github.com/caroleonor/dash-callbacks-multi-input/edit/master/app.py'),
+    html.A('Code on Github', href='https://github.com/caroleonor/GAMid_project'),
     html.Br(),
     html.A("Data Source", href='https://brickarchitect.com/book/bricks'),
     ]
